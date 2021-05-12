@@ -1,5 +1,5 @@
 /**********************************************************************                                                
- *  PS3b: StringSound implementation and SFML audio output 
+ *  PS4b: StringSound implementation and SFML audio output 
  **********************************************************************/
 
 Name: Tashia Boddu
